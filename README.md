@@ -1,2 +1,2 @@
 # sap-sac
-SAP Analytics Cloud - Rest API endpoint
+A basic and simple python code to access rest API endpoint.
